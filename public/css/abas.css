@@ -97,7 +97,7 @@ body {
 .caption {
     padding: 90px 100px 190px 130px;
 }
-.carousel-caption {
+.carousel-caption-caption {
     float: right;
 }
 
@@ -318,7 +318,7 @@ body {
         bottom: 58%;
     }
 
-    .carousel-caption {
+    .carousel-caption-caption {
         max-width: 780px;
     }
   
