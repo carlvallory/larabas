@@ -103,7 +103,7 @@
     <div class="carousel-item">
       <div class="row">
         <div class="col-md bg-azul text-white m-0 p-0">
-          <div class="caption carousel-caption">
+          <div class="caption carousel-caption-caption">
             <h2>Proyectos vigentes</h2>
           <p class="mt-4">Lorem Ipsum is simply dummy text of the
             printing and typesetting industry.</p>
@@ -120,7 +120,7 @@
     <div class="carousel-item">
       <div class="row">
         <div class="col-md bg-azul text-white m-0 p-0">
-          <div class="caption carousel-caption">
+          <div class="caption carousel-caption-caption">
             <h2>Proyectos vigentes</h2>
           <p class="mt-4">Lorem Ipsum is simply dummy text of the
             printing and typesetting industry.</p>
