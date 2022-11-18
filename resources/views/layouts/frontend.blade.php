@@ -42,6 +42,8 @@
 <body style="overflow-x: hidden;">
     @include('partials.navigation')
     @yield('content')
+    @include('partials.footer')
+    @stack('scripts')
 </body>
 
 </html>
