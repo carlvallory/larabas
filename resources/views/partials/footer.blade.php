@@ -41,7 +41,7 @@
           <ul>
             <ul class="nav flex-column">
               <li class="nav-item">
-                <a class="nav-link text-gris-oscuro" href="#">Quienes somos</a>
+                <a class="nav-link text-gris-oscuro {{ (request()->is(explode("/",route('about'))[3])) ? 'active' : '' }}" href="{{route('about')}}">Quienes somos</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link text-gris-oscuro" href="#">Proyectos</a>
@@ -56,7 +56,7 @@
           <ul>
             <ul class="nav flex-column">
               <li class="nav-item">
-                <a class="nav-link text-gris-oscuro" href="#">Contacto</a>
+                <a class="nav-link text-gris-oscuro {{ (request()->is(explode("/",route('contact'))[3])) ? 'active' : '' }}" href="{{route('contact')}}">Contacto</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link text-gris-oscuro" href="#">Sucursales</a>

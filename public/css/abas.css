@@ -299,6 +299,10 @@ body {
     color: #717171 !important;
 }
 
+.text-gris-oscuro.active {
+    color: #4D82C1 !important;
+}
+
 .social {
     border: solid 2px;
     border-radius: 100px;
