@@ -505,7 +505,7 @@
       <h2 class="text-azul mb-4">Lotes por distrito</h2>
 
   <div class="row">
-    <div class="col-md-4 col-6 ">
+    <div class="col-md-4 col-12 col-sm mb-4">
       <div class="lote overflow-hidden" style="background-image: url(img/lote-1.jpg);">
         <div class="cover">
           <div class="lotes-caption">
@@ -520,7 +520,7 @@
         </div>
       </div>
     </div>
-    <div class="col-md-4 col-6 ">
+    <div class="col-md-4 col-12 col-sm mb-4">
       <div class="lote-sub overflow-hidden" style="background-image: url(img/lote-2.jpg);">
         <div class="cover">
           <div class="lotes-caption-sub">
@@ -548,7 +548,7 @@
         </div>
       </div>
     </div>
-    <div class="col-md-4 col-6 ">
+    <div class="col-md-4 col-12 col-sm">
       <div class="lote overflow-hidden" style="background-image: url(img/lote-4.jpg);">
         <div class="cover">
           <div class="lotes-caption">
