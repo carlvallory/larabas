@@ -511,10 +511,10 @@
           <div class="lotes-caption">
             <h3 class="text-white mb-3">Itapúa</h3> 
             <div class="item-lote">
-              <div class="fracciones">12</div> <small class="text-white fs-12 me-3">Fracciones</small>
+              <div class="fracciones"><span class="w-100">12</span></div> <small class="text-white fs-12 me-3">Fracciones</small>
             </div>
             <div class="item-lote">
-              <div class="lotes-disponibles">6</div> <small class="text-white fs-12">Lotes disponibles</small>
+              <div class="lotes-disponibles"><span class="w-100">6</span></div> <small class="text-white fs-12">Lotes disponibles</small>
             </div>          
           </div>
         </div>
@@ -526,10 +526,10 @@
           <div class="lotes-caption-sub">
             <h3 class="text-white mb-3">Itapúa</h3> 
             <div class="item-lote">
-              <div class="fracciones">12</div> <small class="text-white fs-12 me-3">Fracciones</small>
+              <div class="fracciones"><span class="w-100">12</span></div> <small class="text-white fs-12 me-3">Fracciones</small>
             </div>
             <div class="item-lote">
-              <div class="lotes-disponibles">6</div> <small class="text-white fs-12">Lotes disponibles</small>
+              <div class="lotes-disponibles"><span class="w-100">6</span></div> <small class="text-white fs-12">Lotes disponibles</small>
             </div>              
           </div>
         </div>
@@ -539,10 +539,10 @@
           <div class="lotes-caption-sub">
             <h3 class="text-white mb-3">Itapúa</h3> 
             <div class="item-lote">
-              <div class="fracciones">12</div> <small class="text-white fs-12 me-3">Fracciones</small>
+              <div class="fracciones"><span class="w-100">12</span></div> <small class="text-white fs-12 me-3">Fracciones</small>
             </div>
             <div class="item-lote">
-              <div class="lotes-disponibles">6</div> <small class="text-white fs-12">Lotes disponibles</small>
+              <div class="lotes-disponibles"><span class="w-100">6</span></div> <small class="text-white fs-12">Lotes disponibles</small>
             </div>             
           </div>
         </div>
@@ -554,10 +554,10 @@
           <div class="lotes-caption">
             <h3 class="text-white mb-3">Itapúa</h3> 
             <div class="item-lote">
-              <div class="fracciones">12</div> <small class="text-white fs-12 me-3">Fracciones</small>
+              <div class="fracciones"><span class="w-100">12</span></div> <small class="text-white fs-12 me-3">Fracciones</small>
             </div>
             <div class="item-lote">
-              <div class="lotes-disponibles">6</div> <small class="text-white fs-12">Lotes disponibles</small>
+              <div class="lotes-disponibles"><span class="w-100">6</span></div> <small class="text-white fs-12">Lotes disponibles</small>
             </div>              
           </div>
         </div>
