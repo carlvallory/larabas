@@ -11,11 +11,11 @@
       <div class="row">
         <div class="col-md bg-azul text-white m-0 p-0">
           <div class="caption carousel-caption-caption">
-            <h2>Proyectos vigentes</h2>
-          <p class="mt-4">Lorem Ipsum is simply dummy text of the
+            <h2 data-animation="animated bounceInLeft">Proyectos vigentes</h2>
+            <p class="mt-4" data-animation="animated bounceInLeft">Lorem Ipsum is simply dummy text of the
             printing and typesetting industry.</p>
 
-            <a href="#" class="boton-verde mt-4">Ver más</a>
+            <a href="#" class="boton-verde mt-4" data-animation="animated bounceInLeft">Ver más</a>
           </div>
         </div>
         <div class="col-md m-0 p-0">
@@ -28,11 +28,11 @@
       <div class="row">
         <div class="col-md bg-azul text-white m-0 p-0">
           <div class="caption carousel-caption-caption">
-            <h2>Proyectos vigentes</h2>
-          <p class="mt-4">Lorem Ipsum is simply dummy text of the
+            <h2 data-animation="animated bounceInLeft">Proyectos vigentes</h2>
+            <p class="mt-4" data-animation="animated bounceInLeft">Lorem Ipsum is simply dummy text of the
             printing and typesetting industry.</p>
 
-            <a href="#" class="boton-verde mt-4">Ver más</a>
+            <a href="#" class="boton-verde mt-4" data-animation="animated bounceInLeft">Ver más</a>
           </div>
         </div>
         <div class="col-md m-0 p-0">
@@ -45,11 +45,11 @@
       <div class="row">
         <div class="col-md bg-azul text-white m-0 p-0">
           <div class="caption carousel-caption-caption">
-            <h2>Proyectos vigentes</h2>
-          <p class="mt-4">Lorem Ipsum is simply dummy text of the
+            <h2 data-animation="animated bounceInLeft">Proyectos vigentes</h2>
+            <p class="mt-4" data-animation="animated bounceInLeft">Lorem Ipsum is simply dummy text of the
             printing and typesetting industry.</p>
 
-            <a href="#" class="boton-verde mt-4">Ver más</a>
+            <a href="#" class="boton-verde mt-4" data-animation="animated bounceInLeft">Ver más</a>
           </div>  
         </div>
         <div class="col-md m-0 p-0">
@@ -673,6 +673,7 @@
   </div>
 </div>
   <script src="js/jquery-3.6.1.min.js"></script>
+  <script src="https://unpkg.com/popper.js"></script>
   <!--Bootstrap js-->
   <script src="js/bootstrap.bundle.min.js"
     integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
