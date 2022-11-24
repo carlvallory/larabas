@@ -101,6 +101,18 @@ body {
     float: right;
 }
 
+.caption h2 {
+    animation-delay: 1s;
+}
+
+.caption p {
+    animation-delay: 2s;
+}
+
+.caption a {
+    animation-delay: 3s;
+}
+
 .portada-img {
     width: 100%;
     height: 100%;
@@ -285,6 +297,10 @@ body {
 
 .text-gris-oscuro {
     color: #717171 !important;
+}
+
+.text-gris-oscuro.active {
+    color: #4D82C1 !important;
 }
 
 .social {
