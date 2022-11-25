@@ -44,7 +44,7 @@
                 <a class="nav-link text-gris-oscuro {{ (request()->is(explode("/",route('about'))[3])) ? 'active' : '' }}" href="{{route('about')}}">Quienes somos</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link text-gris-oscuro" href="#">Proyectos</a>
+                <a class="nav-link text-gris-oscuro {{ (request()->is(explode("/",route('property.index'))[3])) ? 'active' : '' }}" href="{{route('property.index')}}">Proyectos</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link text-gris-oscuro" href="#">Blog</a>
@@ -59,7 +59,7 @@
                 <a class="nav-link text-gris-oscuro {{ (request()->is(explode("/",route('contact'))[3])) ? 'active' : '' }}" href="{{route('contact')}}">Contacto</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link text-gris-oscuro" href="#">Sucursales</a>
+                <a class="nav-link text-gris-oscuro {{ (request()->is(explode("/",route('branches'))[3])) ? 'active' : '' }}" href="{{route('branches')}}">Sucursales</a>
               </li>
             </ul>
           </ul>

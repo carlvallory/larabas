@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Cookie;
 
-class MainController extends Controller
+class PropertyController extends Controller
 {
     public function __construct()
     {
@@ -18,37 +18,27 @@ class MainController extends Controller
     {
         $ip = request()->ip();
 
-        return view('index', [
+        return view('property.index', [
             'array' => [],
             'ip'    =>  $ip
         ]);
     }
 
-    public function about()
+    public function request()
     {
         $ip = request()->ip();
 
-        return view('about', [
+        return view('property.request', [
             'array' => [],
             'ip'    =>  $ip
         ]);
     }
 
-    public function contact()
+    public function map()
     {
         $ip = request()->ip();
 
-        return view('contact', [
-            'array' => [],
-            'ip'    =>  $ip
-        ]);
-    }
-
-    public function branches()
-    {
-        $ip = request()->ip();
-
-        return view('branches', [
+        return view('property.map', [
             'array' => [],
             'ip'    =>  $ip
         ]);

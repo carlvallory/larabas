@@ -20,10 +20,10 @@
                 <a class="nav-link {{ (request()->is(explode("/",route('about'))[3])) ? 'active' : '' }}" href="{{route('about')}}">Quienes somos</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Loteamientos</a>
+                <a class="nav-link {{ (request()->is(explode("/",route('property.map'))[3])) ? 'active' : '' }}" href="{{route('property.map')}}">Loteamientos</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Ofrecenos tu propiedad</a>
+                <a class="nav-link {{ (request()->is(explode("/",route('property.request'))[3])) ? 'active' : '' }}" href="{{route('property.request')}}">Ofrecenos tu propiedad</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link boton-verde btn-res {{ (request()->is(explode("/",route('contact'))[3])) ? 'active' : '' }}" href="{{route('contact')}}">Contacto</a>
