@@ -78,7 +78,8 @@
       </form>
     </div>
     <div class="col-xs-12 col-md-6 col-lg-6 pt-5 pt-sm-0 pe-sm-0">
-      <img src="{{asset('img/contact.jpg')}}" class="" alt="...">
+      <img src="{{asset('img/contact.jpg')}}" class="img-fluid d-sm-none" alt="...">
+      <img src="{{asset('img/contact.jpg')}}" class="d-none d-sm-block" height="90%" alt="...">
     </div>
   </div>
   <!--fin formulario-->
