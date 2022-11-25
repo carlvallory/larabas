@@ -2,7 +2,7 @@
 <div class="container">
     <nav class="navbar navbar-expand-lg border-bottom">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#"><img src="img/logo.png" height="60px"></a>
+        <a class="navbar-brand" href="{{route('home')}}"><img src="img/logo.png" height="60px"></a>
         <button class="navbar-toggler menu-res" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
           <span><img src="img/burger.svg"></span>
         </button>
