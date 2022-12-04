@@ -344,6 +344,15 @@ body {
     padding-top: 10%;
 }
 
+.form-check-input:checked {
+    background-color: #99cd68 !important;
+    border-color: #ffffff !important;
+}
+
+.propiedad-checket {
+    border: solid 3px #4c82c1;
+}
+
 
 @media only screen and (max-width: 1920px) {
 
