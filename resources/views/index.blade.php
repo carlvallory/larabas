@@ -19,7 +19,7 @@
           </div>
         </div>
         <div class="col-md m-0 p-0">
-          <div class="portada-img" style="background-image: url(img/portada.jpg);" ></div>
+          <div class="portada-img" style="background-image: url(img/brisas-de-pedrozo.jpg);" ></div>
         </div>
       </div>
     </div>
@@ -36,7 +36,7 @@
           </div>
         </div>
         <div class="col-md m-0 p-0">
-          <div class="portada-img" style="background-image: url(img/portada.jpg);" ></div>
+          <div class="portada-img" style="background-image: url(img/eucaliptos-de-piribebuy.png);" ></div>
         </div>
       </div>
     </div>
@@ -53,7 +53,7 @@
           </div>  
         </div>
         <div class="col-md m-0 p-0">
-          <div class="portada-img" style="background-image: url(img/portada.jpg);" ></div>
+          <div class="portada-img" style="background-image: url(img/parque-urbano-de-altos.jpg);" ></div>
         </div>
       </div>
       </div>
