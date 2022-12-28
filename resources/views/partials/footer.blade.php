@@ -64,10 +64,10 @@
             </ul>
           </ul>
           <div class="w-100 mt-3 d-block ms-5">
-            <a href="#" class="social"><img src="img/fb.svg"></a>
-            <a href="#" class="social"><img src="img/tw.svg"></a>
-            <a href="#" class="social"><img src="img/ig.svg"></a>
-            <a href="#" class="social"><img src="img/yt.svg"></a>
+            <a href="https://www.facebook.com/AbasInmobiliaria" class="social"><img src="img/fb.svg"></a>
+            <!--<a href="#" class="social"><img src="img/tw.svg"></a>-->
+            <a href="https://www.instagram.com/abasinmobiliaria" class="social"><img src="img/ig.svg"></a>
+            <!--<a href="#" class="social"><img src="img/yt.svg"></a>-->
           </div>
         </div>
       </div>
