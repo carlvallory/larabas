@@ -36,6 +36,10 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+h5.price {
+    font-size: 1.2rem;
+}
+
 .boton-verde {
     background-color: #99CD68;
     color: #000 !important;
@@ -147,6 +151,10 @@ body {
     font-size: 24px;
 }
 
+.precio.small {
+    font-size: 20px;
+}
+
 .ir {
     background-color: #98ce6752;
     width: 50px;
@@ -220,7 +228,7 @@ body {
     background-color: #4D82C1;
     color: #fff;
     padding: 6px;
-    width: 70px;
+    max-width: 150px;
     position: relative;
     margin-top: -16px;
 }
