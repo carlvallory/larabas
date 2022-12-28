@@ -552,6 +552,15 @@ h5.price {
         bottom: 66%;
         left: 90px;
     }
+
+    .departamento {
+        background-color: #4D82C1;
+        color: #fff;
+        padding: 6px;
+        max-width: 70px;
+        position: relative;
+        margin-top: -16px;
+    }
   }
 
   @media only screen and (max-width: 437px) {
