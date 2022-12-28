@@ -490,7 +490,7 @@
         <h2 class="mt-3">Quienes somos</h2>
         <p class="mt-4">Somos una empresa con más de 60 años de trayectoria que tiene la misión de consolidarse como una empresa lider en el mercado inmobiliario. </p>
         <p>Asumimos el compromiso de dar una atención de absoluta calidad a cada cliente para que el mismo nos tenga como referente en el mercado de loteamientos, ventas y alquileres.  </p>
-        <a href="#" class="boton-azul mt-4">Ver más</a>
+        <a href="{{route('about')}}" class="boton-azul mt-4">Ver más</a>
       </div>
     </div>
   </div>
