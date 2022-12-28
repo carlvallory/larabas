@@ -19,7 +19,7 @@
   </p>
 
   <!--texto secundario-->
-  <p class="fs-6 mt-5 text-secondary">Cuando en los años 70, dicha zona experimentó un crecimiento explosivo, lo que en años anteriores había sido una gran visión se convirtió en un empredimiento económico que daría grandes frutos en los tiempos por venir. En 1973, se construye el primer edificio de departamentos en Ciudad del Este: es el edificio Elias A. Saba</p>
+  <p class="fs-6 mt-4 text-secondary">Cuando en los años 70, dicha zona experimentó un crecimiento explosivo, lo que en años anteriores había sido una gran visión se convirtió en un empredimiento económico que daría grandes frutos en los tiempos por venir. En 1973, se construye el primer edificio de departamentos en Ciudad del Este: es el edificio Elias A. Saba</p>
 
   <!--imagen triple-->
 
@@ -35,9 +35,9 @@
     </div>
   </div>
 
-  <h2>Misión</h2>
+  <h2 class="mt-5 text-center">Misión</h2>
   <!--texto secundario-->
-  <p class="fs-6 mt-5 text-secondary">Consolidarnos como una de las empresas Inmobiliarias lideres en el mercado paraguayo, con el compromiso de proveer una atención personal de absoluta calidad a nuestros clientes.</p>
+  <p class="fs-6 mt-4 text-secondary">Consolidarnos como una de las empresas Inmobiliarias lideres en el mercado paraguayo, con el compromiso de proveer una atención personal de absoluta calidad a nuestros clientes.</p>
 
   <!--imagen doble-->
 
@@ -50,9 +50,9 @@
     </div>
   </div>
 
-  <h2>Visión</h2>
+  <h2 class="mt-5 text-center">Visión</h2>
   <!--texto secundario-->
-  <p class="fs-6 mt-5 text-secondary">Lograr a través de nuestro trabajo y trato diario la completa satisfacción de nuestros clientes, convirtiéndonos en la empresa inmobiliara referente en el mercado en loteamientos, ventas y alquileres.</p>
+  <p class="fs-6 mt-4 text-secondary">Lograr a través de nuestro trabajo y trato diario la completa satisfacción de nuestros clientes, convirtiéndonos en la empresa inmobiliara referente en el mercado en loteamientos, ventas y alquileres.</p>
 
   <!--imagen simple-->
 
