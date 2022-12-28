@@ -111,6 +111,10 @@ body {
     animation-delay: 1s;
 }
 
+.caption h3 {
+    animation-delay: 1.4s;
+}
+
 .caption p {
     animation-delay: 2s;
 }
