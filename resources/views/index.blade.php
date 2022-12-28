@@ -157,7 +157,7 @@
               <div class="w-100 mt-4 mb-2" style="height:1px;"></div>
               <div class="row w-100 m-2">
                 <div class="col-md">
-                  <h5 class="text-secondary mb-0 price">Desde: <span class="precio small">$2.000</span></h5>
+                  <h5 class="text-secondary mb-0 price">Desde: <br> <span class="precio small">$2.000</span></h5>
                   <p class="mt-3 mb-0 text-dark">Quinta cerca del lago</p>
                   <small class="text-secondary mt-2 mb-4"> <img src="img/ubi.svg"> Fernando de la mora</small>
                 </div>
@@ -175,7 +175,7 @@
               <div class="w-100 mt-4 mb-2" style="height:1px;"></div>
               <div class="row w-100 m-2">
                 <div class="col-md">
-                  <h5 class="mb-1 text-secondary price">Desde: <span class="precio small">$2.000</span></h5>
+                  <h5 class="mb-1 text-secondary price">Desde: <br> <span class="precio small">$2.000</span></h5>
                   <p class="mt-3 mb-0 text-dark">Quinta cerca del lago</p>
                   <small class="text-secondary mt-2 mb-4"> <img src="img/ubi.svg"> Fernando de la mora</small>
                 </div>
@@ -193,7 +193,7 @@
               <div class="w-100 mt-4 mb-2" style="height:1px;"></div>
               <div class="row w-100 m-2">
                 <div class="col-md">
-                  <h5 class="mb-1 text-secondary price">Desde: <span class="precio small">$2.000</span></h5>
+                  <h5 class="mb-1 text-secondary price">Desde: <br> <span class="precio small">$2.000</span></h5>
                   <p class="mt-3 mb-0 text-dark">Quinta cerca del lago</p>
                   <small class="text-secondary mt-2 mb-4"> <img src="img/ubi.svg"> Fernando de la mora</small>
                 </div>
@@ -211,7 +211,7 @@
               <div class="w-100 mt-4 mb-2" style="height:1px;"></div>
               <div class="row w-100 m-2">
                 <div class="col-md">
-                  <h5 class="mb-1 text-secondary price">Desde: <span class="precio small">$2.000</span></h5>
+                  <h5 class="mb-1 text-secondary price">Desde: <br> <span class="precio small">$2.000</span></h5>
                   <p class="mt-3 mb-0 text-dark">Quinta cerca del lago</p>
                   <small class="text-secondary mt-2 mb-4"> <img src="img/ubi.svg"> Fernando de la mora</small>
                 </div>
@@ -233,7 +233,7 @@
               <div class="w-100 mt-4 mb-2" style="height:1px;"></div>
               <div class="row w-100 m-2">
                 <div class="col-md">
-                  <h5 class="mb-1 text-secondary price">Desde: <span class="precio small">$2.000</span></h5>
+                  <h5 class="mb-1 text-secondary price">Desde: <br> <span class="precio small">$2.000</span></h5>
                   <p class="mt-3 mb-0 text-dark">Quinta cerca del lago</p>
                   <small class="text-secondary mt-2 mb-4"> <img src="img/ubi.svg"> Fernando de la mora</small>
                 </div>
@@ -251,7 +251,7 @@
               <div class="w-100 mt-4 mb-2" style="height:1px;"></div>
               <div class="row w-100 m-2">
                 <div class="col-md">
-                  <h5 class="mb-1 text-secondary price">Desde: <span class="precio small">$2.000</span></h5>
+                  <h5 class="mb-1 text-secondary price">Desde: <br> <span class="precio small">$2.000</span></h5>
                   <p class="mt-3 mb-0 text-dark">Quinta cerca del lago</p>
                   <small class="text-secondary mt-2 mb-4"> <img src="img/ubi.svg"> Fernando de la mora</small>
                 </div>
@@ -269,7 +269,7 @@
               <div class="w-100 mt-4 mb-2" style="height:1px;"></div>
               <div class="row w-100 m-2">
                 <div class="col-md">
-                  <h5 class="mb-1 text-secondary price">Desde: <span class="precio small">$2.000</span></h5>
+                  <h5 class="mb-1 text-secondary price">Desde: <br> <span class="precio small">$2.000</span></h5>
                   <p class="mt-3 mb-0 text-dark">Quinta cerca del lago</p>
                   <small class="text-secondary mt-2 mb-4"> <img src="img/ubi.svg"> Fernando de la mora</small>
                 </div>
@@ -287,7 +287,7 @@
               <div class="w-100 mt-4 mb-2" style="height:1px;"></div>
               <div class="row w-100 m-2">
                 <div class="col-md">
-                  <h5 class="mb-1 text-secondary price">Desde: <span class="precio small">$2.000</span></h5>
+                  <h5 class="mb-1 text-secondary price">Desde: <br> <span class="precio small">$2.000</span></h5>
                   <p class="mt-3 mb-0 text-dark">Quinta cerca del lago</p>
                   <small class="text-secondary mt-2 mb-4"> <img src="img/ubi.svg"> Fernando de la mora</small>
                 </div>
@@ -331,7 +331,7 @@
               <div class="w-100 mt-4 mb-2" style="height:1px;"></div>
               <div class="row w-100 m-2">
                 <div class="col-md">
-                  <h5 class="mb-1 text-secondary price">Desde: <span class="precio small">$2.000</span></h5>
+                  <h5 class="mb-1 text-secondary price">Desde: <br> <span class="precio small">$2.000</span></h5>
                   <p class="mt-3 mb-0 text-dark">Quinta cerca del lago</p>
                   <small class="text-secondary mt-2 mb-4"> <img src="img/ubi.svg"> Fernando de la mora</small>
                 </div>
@@ -349,7 +349,7 @@
               <div class="w-100 mt-4 mb-2" style="height:1px;"></div>
               <div class="row w-100 m-2">
                 <div class="col-md">
-                  <h5 class="mb-1 text-secondary price">Desde: <span class="precio small">$2.000</span></h5>
+                  <h5 class="mb-1 text-secondary price">Desde: <br> <span class="precio small">$2.000</span></h5>
                   <p class="mt-3 mb-0 text-dark">Quinta cerca del lago</p>
                   <small class="text-secondary mt-2 mb-4"> <img src="img/ubi.svg"> Fernando de la mora</small>
                 </div>
@@ -367,7 +367,7 @@
               <div class="w-100 mt-4 mb-2" style="height:1px;"></div>
               <div class="row w-100 m-2">
                 <div class="col-md">
-                  <h5 class="mb-1 text-secondary price">Desde: <span class="precio small">$2.000</span></h5>
+                  <h5 class="mb-1 text-secondary price">Desde: <br> <span class="precio small">$2.000</span></h5>
                   <p class="mt-3 mb-0 text-dark">Quinta cerca del lago</p>
                   <small class="text-secondary mt-2 mb-4"> <img src="img/ubi.svg"> Fernando de la mora</small>
                 </div>
@@ -385,7 +385,7 @@
               <div class="w-100 mt-4 mb-2" style="height:1px;"></div>
               <div class="row w-100 m-2">
                 <div class="col-md">
-                  <h5 class="mb-1 text-secondary price">Desde: <span class="precio small">$2.000</span></h5>
+                  <h5 class="mb-1 text-secondary price">Desde: <br> <span class="precio small">$2.000</span></h5>
                   <p class="mt-3 mb-0 text-dark">Quinta cerca del lago</p>
                   <small class="text-secondary mt-2 mb-4"> <img src="img/ubi.svg"> Fernando de la mora</small>
                 </div>
@@ -407,7 +407,7 @@
               <div class="w-100 mt-4 mb-2" style="height:1px;"></div>
               <div class="row w-100 m-2">
                 <div class="col-md">
-                  <h5 class="mb-1 text-secondary price">Desde: <span class="precio small">$2.000</span></h5>
+                  <h5 class="mb-1 text-secondary price">Desde: <br> <span class="precio small">$2.000</span></h5>
                   <p class="mt-3 mb-0 text-dark">Quinta cerca del lago</p>
                   <small class="text-secondary mt-2 mb-4"> <img src="img/ubi.svg"> Fernando de la mora</small>
                 </div>
@@ -425,7 +425,7 @@
               <div class="w-100 mt-4 mb-2" style="height:1px;"></div>
               <div class="row w-100 m-2">
                 <div class="col-md">
-                  <h5 class="mb-1 text-secondary price">Desde: <span class="precio small">$2.000</span></h5>
+                  <h5 class="mb-1 text-secondary price">Desde: <br> <span class="precio small">$2.000</span></h5>
                   <p class="mt-3 mb-0 text-dark">Quinta cerca del lago</p>
                   <small class="text-secondary mt-2 mb-4"> <img src="img/ubi.svg"> Fernando de la mora</small>
                 </div>
@@ -443,7 +443,7 @@
               <div class="w-100 mt-4 mb-2" style="height:1px;"></div>
               <div class="row w-100 m-2">
                 <div class="col-md">
-                  <h5 class="mb-1 text-secondary price">Desde: <span class="precio small">$2.000</span></h5>
+                  <h5 class="mb-1 text-secondary price">Desde: <br> <span class="precio small">$2.000</span></h5>
                   <p class="mt-3 mb-0 text-dark">Quinta cerca del lago</p>
                   <small class="text-secondary mt-2 mb-4"> <img src="img/ubi.svg"> Fernando de la mora</small>
                 </div>
@@ -461,7 +461,7 @@
               <div class="w-100 mt-4 mb-2" style="height:1px;"></div>
               <div class="row w-100 m-2">
                 <div class="col-md">
-                  <h5 class="mb-1 text-secondary price">Desde: <span class="precio small">$2.000</span></h5>
+                  <h5 class="mb-1 text-secondary price">Desde: <br> <span class="precio small">$2.000</span></h5>
                   <p class="mt-3 mb-0 text-dark">Quinta cerca del lago</p>
                   <small class="text-secondary mt-2 mb-4"> <img src="img/ubi.svg"> Fernando de la mora</small>
                 </div>
