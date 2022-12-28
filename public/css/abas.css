@@ -554,12 +554,7 @@ h5.price {
     }
 
     .departamento {
-        background-color: #4D82C1;
-        color: #fff;
-        padding: 6px;
         max-width: 70px;
-        position: relative;
-        margin-top: -16px;
     }
   }
 
