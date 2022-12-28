@@ -9,7 +9,7 @@
   <div class="portada-about overflow-hidden" style="background-image: url(img/nosotros.jpg);">
     <div class="cover-portada">
       <h2 class="text-white w-100 text-center">Quienes somos</h2>
-      <p class="f-2 text-white fs-bolt w-75 mx-auto text-center">SOMOS UNA EMPRESA CON MÁS DE 60 AÑOS DE TRAYECTORIA QUE TIENE LA MISIÓN DE CONSOLIDARSE COMO UNA EMPRESA LIDER EN EL MERCADO INMOBILIARIO. </p>
+      <p class="f-2 text-white fs-bolt w-75 mx-auto text-center">Somos una empresa con más de 60 años de trayectoria que tiene la misión de consolidarse como una empresa lider en el mercado inmobiliario. </p>
     </div>  
   </div>
 

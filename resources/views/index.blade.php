@@ -488,8 +488,8 @@
       </div>
       <div class="col-md p-5">
         <h2 class="mt-3">Quienes somos</h2>
-        <p class="mt-4">SOMOS UNA EMPRESA CON MÁS DE 60 AÑOS DE TRAYECTORIA QUE TIENE LA MISIÓN DE CONSOLIDARSE COMO UNA EMPRESA LIDER EN EL MERCADO INMOBILIARIO. </p>
-        <p>ASUMISMOS EL COMPROMISO DE DAR UNA ATENCIÓN DE ABSOLUTA CALIDAD A CADA CLIENTE PARA QUE EL MISMO NOS TENGA COMO REFERENTE EN EL MERCADO DE LOTEAMIENTOS, VENTAS Y ALQUILERES. </p>
+        <p class="mt-4">Somos una empresa con más de 60 años de trayectoria que tiene la misión de consolidarse como una empresa lider en el mercado inmobiliario. </p>
+        <p>Asumimos el compromiso de dar una atención de absoluta calidad a cada cliente para que el mismo nos tenga como referente en el mercado de loteamientos, ventas y alquileres.  </p>
         <a href="#" class="boton-azul mt-4">Ver más</a>
       </div>
     </div>
