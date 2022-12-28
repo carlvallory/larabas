@@ -488,7 +488,8 @@
       </div>
       <div class="col-md p-5">
         <h2 class="mt-3">Quienes somos</h2>
-        <p class="mt-4">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.</p>
+        <p class="mt-4">SOMOS UNA EMPRESA CON MÁS DE 60 AÑOS DE TRAYECTORIA QUE TIENE LA MISIÓN DE CONSOLIDARSE COMO UNA EMPRESA LIDER EN EL MERCADO INMOBILIARIO. </p>
+        <p>ASUMISMOS EL COMPROMISO DE DAR UNA ATENCIÓN DE ABSOLUTA CALIDAD A CADA CLIENTE PARA QUE EL MISMO NOS TENGA COMO REFERENTE EN EL MERCADO DE LOTEAMIENTOS, VENTAS Y ALQUILERES. </p>
         <a href="#" class="boton-azul mt-4">Ver más</a>
       </div>
     </div>

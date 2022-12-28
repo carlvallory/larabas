@@ -9,16 +9,17 @@
   <div class="portada-about overflow-hidden" style="background-image: url(img/nosotros.jpg);">
     <div class="cover-portada">
       <h2 class="text-white w-100 text-center">Quienes somos</h2>
-      <p class="f-2 text-white fs-bolt w-75 mx-auto text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+      <p class="f-2 text-white fs-bolt w-75 mx-auto text-center">SOMOS UNA EMPRESA CON MÁS DE 60 AÑOS DE TRAYECTORIA QUE TIENE LA MISIÓN DE CONSOLIDARSE COMO UNA EMPRESA LIDER EN EL MERCADO INMOBILIARIO. </p>
     </div>  
   </div>
 
   <!--Texto primario-->
 
-  <p class="fs-5 mt-5">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+  <p class="fs-5 mt-5">Abas dio sus primeros pasos en el negocio inmobiliario ya en el década de los 60, cuando su fundador, Don Elías Abraham Saba, adquirió 100 hectáreas en un zona que en aquel entonces era rural y que hoy conocemos como Ciudad del Este. En esa oportunidad, que Don Saba presentó su primer proyecto de urbanización que incluía la creación de calles, plazas, edificios públicos y viviendas.
+  </p>
 
   <!--texto secundario-->
-  <p class="fs-6 mt-5 text-secondary">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+  <p class="fs-6 mt-5 text-secondary">Cuando en los años 70, dicha zona experimentó un crecimiento explosivo, lo que en años anteriores había sido una gran visión se convirtió en un empredimiento económico que daría grandes frutos en los tiempos por venir. En 1973, se construye el primer edificio de departamentos en Ciudad del Este: es el edificio Elias A. Saba</p>
 
   <!--imagen triple-->
 
@@ -34,8 +35,9 @@
     </div>
   </div>
 
+  <h2>Misión</h2>
   <!--texto secundario-->
-  <p class="fs-6 mt-5 text-secondary">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+  <p class="fs-6 mt-5 text-secondary">Consolidarnos como una de las empresas Inmobiliarias lideres en el mercado paraguayo, con el compromiso de proveer una atención personal de absoluta calidad a nuestros clientes.</p>
 
   <!--imagen doble-->
 
@@ -48,8 +50,9 @@
     </div>
   </div>
 
+  <h2>Visión</h2>
   <!--texto secundario-->
-  <p class="fs-6 mt-5 text-secondary">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+  <p class="fs-6 mt-5 text-secondary">Lograr a través de nuestro trabajo y trato diario la completa satisfacción de nuestros clientes, convirtiéndonos en la empresa inmobiliara referente en el mercado en loteamientos, ventas y alquileres.</p>
 
   <!--imagen simple-->
 
