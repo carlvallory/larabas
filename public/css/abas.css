@@ -127,6 +127,11 @@ h5.price {
     animation-delay: 3s;
 }
 
+.caption p.p-box { 
+    min-block-size: 100px;
+    writing-mode: horizontal-tb;
+}
+
 .portada-img {
     width: 100%;
     height: 100%;

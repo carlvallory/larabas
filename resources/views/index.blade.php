@@ -13,7 +13,7 @@
           <div class="caption carousel-caption-caption">
             <h2 data-animation="animated bounceInLeft">TU LOTE MÁS CERCA</h2>
             <h3 data-animation="animated bounceInLeft">Brisas de Pedrozo</h3>
-            <p class="mt-4" data-animation="animated bounceInLeft">Ubicado en Pedrozo a metros de ruta 2 y con calles de acceso empedradas y energía eléctrica en la fracción.</p>
+            <p class="mt-4 p-box" data-animation="animated bounceInLeft">Ubicado en Pedrozo a metros de ruta 2 y con calles de acceso empedradas y energía eléctrica en la fracción.</p>
 
             <a href="#" class="boton-verde mt-4" data-animation="animated bounceInLeft">Ver más</a>
           </div>
@@ -30,7 +30,7 @@
           <div class="caption carousel-caption-caption">
             <h2 data-animation="animated bounceInLeft">LOTES EN PIRIBEBUY</h2>
             <h3 data-animation="animated bounceInLeft">Eucaplitos de Piribebuy</h3>
-            <p class="mt-4" data-animation="animated bounceInLeft">Una ciudad histórica y turística. Ubicada a 73 kms al este de Asunción. El lugar de descanso ideal para vos y tu familia.</p>
+            <p class="mt-4 p-box" data-animation="animated bounceInLeft">Una ciudad histórica y turística. Ubicada a 73 kms al este de Asunción. El lugar de descanso ideal para vos y tu familia.</p>
 
             <a href="#" class="boton-verde mt-4" data-animation="animated bounceInLeft">Ver más</a>
           </div>
@@ -47,7 +47,7 @@
           <div class="caption carousel-caption-caption">
             <h2 data-animation="animated bounceInLeft">TU LOTE MÁS CERCA</h2>
             <h3 data-animation="animated bounceInLeft">Parque Urbano de Altos</h3>
-            <p class="mt-4" data-animation="animated bounceInLeft">Ubicado a 1.500 metros del Casco Urbano de la ciudad de Altos. Sobre Ruta Asfaltada a Loma Grande. Lotes con empedrado y luz eléctrica.</p>
+            <p class="mt-4 p-box" data-animation="animated bounceInLeft">Ubicado a 1.500 metros del Casco Urbano de la ciudad de Altos. Sobre Ruta Asfaltada a Loma Grande. Lotes con empedrado y luz eléctrica.</p>
 
             <a href="#" class="boton-verde mt-4" data-animation="animated bounceInLeft">Ver más</a>
           </div>  
