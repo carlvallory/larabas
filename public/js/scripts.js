@@ -29,7 +29,7 @@
         var nextactiveslide = $(e.relatedTarget).index();
         var $btns = $('.bullet');
         $btns.removeClass('active');
-        var $activeBtn = $("[data-slide-to='" + nextactiveslide + "']").addClass('active');
+        var $activeBtn = $("[data-bs-slide-to='" + nextactiveslide + "']").addClass('active');
 
 
         var $animatingElems = $(e.relatedTarget).find("[data-animation ^= 'animated']");
