@@ -26,6 +26,12 @@
     doAnimations($firstAnimatingElems);
 
     $myCarousel.on("slide.bs.carousel", function(e) {
+        var nextactiveslide = $(e.relatedTarget).index();
+        var $btns = $('.bullet');
+        $btns.removeClass('active');
+        var $activeBtn = $("[data-slide-to='" + nextactiveslide + "']").addClass('active');
+
+
         var $animatingElems = $(e.relatedTarget).find("[data-animation ^= 'animated']");
         doAnimations($animatingElems);
     });

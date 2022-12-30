@@ -64,7 +64,7 @@
     <div class="row">
          <!--Bullets-->
       <div class="col">
-        <button type="button" class="bullet mt-4 activo" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" class="bullet mt-4 active" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" aria-current="true" aria-label="Slide 1"></button>
         <button type="button" class="bullet mt-4"  data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
         <button type="button" class="bullet mt-4"  data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
       </div>
