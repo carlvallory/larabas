@@ -180,6 +180,10 @@ h5.price {
     margin: 4px;
 }
 
+.bullet.activo {
+    background-color: #fff;
+}
+
 .arrow-portada {
     border: 0;
     background-color: #ffffff45;
